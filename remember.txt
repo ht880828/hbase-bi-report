@@ -1,1 +1,3 @@
-jvm调优    https://blog.csdn.net/lmy4710/article/details/42365529
+jvm调优                     https://blog.csdn.net/lmy4710/article/details/42365529
+hbase blog                  http://hbasefly.com/
+hbase W3Cschool             https://www.w3cschool.cn/hbase_doc/hbase_doc-fos62kl2.html
